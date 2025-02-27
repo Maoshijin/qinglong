@@ -55,13 +55,13 @@ $.wxCode = $.codeOpen != "false" && $.codeServer && $.appid;
 const appid = 'xmyx'
 const appKey = 'TwUQ01lKS1Km5zlV2f7amsZc5EQYkTbv'
 const taskList = [
-  { taskName: "浏览粮油专场10秒", taskType: "XXGG", time: 11 },
-  { taskName: "浏览热销榜单10秒", taskType: "LLZTY", time: 11 },
-  { taskName: "浏览视频10秒", taskType: "LLSP", time: 11 },
-  { taskName: "打开签到提醒", taskType: "YXDY", time: 3 },
-  { taskName: "大转盘抽奖", taskType: "YXDZP", time: 3 },
-  { taskName: "购买任意商品1次", taskType: "YXXD", time: 3 },
-  { taskName: "查看优惠券", taskType: "LLYHJ", time: 3 }
+  { taskName: "逛全网最低", taskType: "LLZTY", time: 11 },
+  { taskName: "浏览热销爆品1", taskType: "TZSPXQ2", time: 11 },
+  { taskName: "浏览热销爆品2", taskType: "TZSPXQ1", time: 11 },
+  { taskName: "滑动浏览精选超值好物", taskType: "LLQDYSPL", time: 15 },
+  { taskName: "查看我的优惠券", taskType: "LLYHJ", time: 3 },
+  { taskName: "购买任意商品1次", taskType: "YXXD", time: 15 },
+  { taskName: "浏览母婴育儿专场", taskType: "XXGG", time: 15 }
 //   { taskName: "补签赚积分", taskType: "YXBQ", time: 3 },
 //   { taskName: "补签赚积分", taskType: "YXBQ", time: 3 } // 执行两次
 ]
